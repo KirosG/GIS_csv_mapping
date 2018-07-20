@@ -3,8 +3,8 @@ from mpl_toolkits.basemap import Basemap
 import matplotlib.pyplot as plt
 import numpy as np
 
+# input your desired coordinates
 my_coords = [38.9719980,-76.9219820]
-##my_coords = [40.7999210,-73.9683100]
 
 # How much to zoom from coordinates (in degrees)
 zoom_scale = 1
